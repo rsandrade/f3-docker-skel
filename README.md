@@ -1,8 +1,6 @@
 # f3-docker-skel
 
-Fatfree Framework + Docker skel
-
-Fat-Free 3.6
+Fatfree Framework 3.6 + Docker skel
 
 **Require**
 
@@ -20,7 +18,7 @@ Fat-Free 3.6
     
     Go to http://localhost/ to run your project in a devel environment
 
-**Features**
+**What you can do with it**
 
     You dont need to stop the "build and run" script to change files in your project
     Run it and just start to write code and run/test it using a browser
