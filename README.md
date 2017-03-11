@@ -18,7 +18,7 @@ Fat-Free 3.6
     $ cd f3-docker-skel
     $ sh build-run.sh
     
-    Go to http://localhost/ to run the project
+    Go to http://localhost/ to run your project in a devel environment
 
 **Features**
 
