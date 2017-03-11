@@ -22,4 +22,4 @@ Fat-Free 3.6
 
 **Features**
 
-    You dont need to stop the "build and run" script to change your project and run it.
+    You dont need to stop the "build and run" script to change files in your project and run/test it using a browser.
