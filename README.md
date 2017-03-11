@@ -1,6 +1,6 @@
 # f3-docker-skel
 
-Fatfree Framework 3.6 + Docker skel
+Fatfree Framework 3.6 + Docker skel and devel environment
 
 **Require**
 
