@@ -6,8 +6,8 @@ Fat-Free 3.6
 
 **Require**
     Was tested in Ubuntu 16.04 with the following packages installed:
-        Docker (https://docs.docker.com/engine/installation/linux/ubuntu/)
-        Composer (apt-get install composer).
+    - Docker (https://docs.docker.com/engine/installation/linux/ubuntu/)
+    - Composer (apt-get install composer).
 
 **Commands**
 
