@@ -16,9 +16,9 @@ Fatfree Framework 3.6 + Docker skel and devel environment
     $ cd f3-docker-skel
     $ sh build-run.sh
     
-    Go to http://localhost/ to run your project in a devel environment
+    Go to http://localhost/ to run the project in a devel environment
 
 **What you can do with it**
 
-    You dont need to stop the "build and run" script to change files in your project
-    Run it and just start to write code and run/test it using a browser
+    You don't need to stop the "build and run" script to change files of your project
+    Run it and just start to write your code and run/test it using a browser
