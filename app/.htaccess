@@ -1,8 +1,5 @@
-DocumentRoot "/var/www/html"
-<Directory "/var/www/html">
-    Options -Indexes +FollowSymLinks +Includes
-    AllowOverride All
-    Order allow,deny
-    Allow from All
-</Directory>
-
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule .* index.php [L,QSA]
